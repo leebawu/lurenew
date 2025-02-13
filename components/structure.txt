@@ -1,0 +1,37 @@
+components/
+├── Categories.tsx
+├── ErrorBoundary.tsx
+├── EventDetail.tsx
+├── FishingSpotCard.tsx
+├── FishingSpotDetail.tsx
+├── FishingSpotReviews.tsx
+├── FishNewsCard.tsx
+├── FishNewsPage.tsx
+├── Header.tsx
+├── RatingForm.tsx
+├── ReviewsSection/
+│   ├── index.tsx
+│   ├── ReviewSummary.tsx
+│   └── UserReview.tsx
+├── SiteLayout.tsx
+├── SpotActions.tsx
+├── SpotDetailHeader.tsx
+├── SpotRatings.tsx
+├── SpotTabs.tsx
+├── UserReview.tsx
+├── WeChatShare.tsx
+└── icons.tsx
+
+ui/
+├── avatar.tsx
+├── badge.tsx
+├── button.tsx
+├── card.tsx
+├── input.tsx
+├── popover.tsx
+├── tooltip.tsx
+└── chart/
+    ├── ChartContainer.tsx
+    ├── ChartTooltip.tsx
+    └── ChartTooltipContent.tsx
+

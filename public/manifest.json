@@ -1,0 +1,22 @@
+{
+  "name": "路亚场地评分",
+  "short_name": "路亚评分",
+  "description": "发现和评价最佳路亚钓鱼地点",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+

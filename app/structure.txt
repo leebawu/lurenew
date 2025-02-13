@@ -1,0 +1,17 @@
+app/
+├── fishing-spot/
+│   └── [id]/
+│       ├── page.tsx
+│       └── reviews/
+│           └── page.tsx
+├── page.tsx
+├── layout.tsx
+├── globals.css
+├── recommended-spots/
+│   └── page.tsx
+├── register/
+│   └── page.tsx
+└── spot/
+    └── [id]/
+        └── page.tsx
+
