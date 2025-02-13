@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -27,6 +28,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 =======
+=======
+>>>>>>> 5aaa230101236f25b456c61a468614c4efa6c23f
 # Logs
 logs
 *.log
@@ -157,4 +160,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> 2d0e7c0cb5e5141887eb80fc712195c9a141db6a
+=======
+>>>>>>> 5aaa230101236f25b456c61a468614c4efa6c23f
